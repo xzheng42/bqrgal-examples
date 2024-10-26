@@ -1,0 +1,15 @@
+Package: bqrgal
+Type: Package
+Title: Bayesian linear quantile regression based on generalized asymmetric Laplace distributions
+Version: 0.1.0
+Date: 2024-10-03
+Author: Xiaotian Zheng 
+Maintainer: Xiaotian Zheng <xiaotianzheng42@gmail.com>
+Description: Fitting univeriate Bayesian linear quantile regressions based on generalized asymmetric Laplace distributions.
+             Reference: Yan, Y., Zheng, X., and Kottas, A. (2024). < https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-24-01 >.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: Rcpp (>= 1.0.9), mvtnorm, GIGrvg, truncnorm
+LinkingTo: Rcpp, RcppArmadillo, RcppDist
