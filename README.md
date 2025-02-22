@@ -3,7 +3,7 @@
 This repository contains the R package [**bqrgal**](https://github.com/xzheng42/bqrgal-examples-ba-2024/tree/main/bqrgal) (currently developer's version) 
 and R scripts to reproduce the numerical results in
 
-Yan, Y., Zheng, X., and Kottas, A. (2024+). A new family of error distributions for Bayesian quantile regression. Technical Report UCSC-SOE-24-01 [[link](https://tr.soe.ucsc.edu/sites/default/files/technical-reports/UCSC-SOE-24-01.pdf)]
+Yan, Y., Zheng, X., and Kottas, A. (2025). A new family of error distributions for Bayesian quantile regression. *Bayesian Analysis* [DOI: 10.1214/25-BA1507](https://doi.org/10.1214/25-BA1507)
 
 ### Installing and using the **bqrgal** package
 
